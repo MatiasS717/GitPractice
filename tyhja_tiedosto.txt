@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Tähän tulee muutoksia
+=======
+Testaillaan
+>>>>>>> refs/remotes/origin/main
